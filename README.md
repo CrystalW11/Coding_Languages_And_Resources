@@ -6,6 +6,8 @@ Coding Excel spreadsheet. Click view raw and it should download for you.
 <img width="1912" alt="image" src="https://github.com/user-attachments/assets/454ddacc-9864-4985-a924-ccc6dd7ca87f" />
 
 #### 1. Here is how you open it up. 
+        - Click `view raw` - *box 1*
+        - Click `down arrow` - *box 2*
 
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/7adc3309-ad03-4427-9271-71db14347563" />
 
